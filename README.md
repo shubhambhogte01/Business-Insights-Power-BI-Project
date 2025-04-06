@@ -6,7 +6,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 - **Objective:** 
 
-    **1.** A _[Home Page](https://github.com/Anila-03/Atliq-Analytics-Portal/blob/main/Home%20View.png)_ for the user to navigate to different Views in the Dashboard.
+    **1.** A _[Home Page](https://github.com/shubhambhogte01/Business-Insights-Power-BI-Project/blob/main/Home.png)_ for the user to navigate to different Views in the Dashboard.
 
     **2.** The icons redirect you to the respective dashboards.
 
@@ -20,7 +20,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 - **Ojective:** 
 
-    **1.** A dashboard for _[Finance View](https://github.com/Anila-03/Atliq-Analytics-Portal/blob/main/Finance%20View.png)_
+    **1.** A dashboard for _[Finance View](https://github.com/shubhambhogte01/Business-Insights-Power-BI-Project/blob/main/Finance%20View.png)_
 
 - **KPI Visuals:** Track key performance indicators (KPIs) such as Net Sales, Gross Margin %, and Net Profit %, with comparisons to benchmark values (e.g., Last Year or Targets).
 
@@ -33,7 +33,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 - **View objective:** 
 
-    **1.** A dashboard for _[Sales View](https://github.com/Anila-03/Atliq-Analytics-Portal/blob/main/Sales%20View.png)_
+    **1.** A dashboard for _[Sales View](https://github.com/shubhambhogte01/Business-Insights-Power-BI-Project/blob/main/Sales%20View.png)_
   
 - **Customer Performance:** Analyze customer performance metrics, including Net Sales, Gross Margin, and Gross Margin %.
 
@@ -48,7 +48,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 - **View objective:** 
 
-    **1.** A dashboard for _[Marketing View](https://github.com/Anila-03/Atliq-Analytics-Portal/blob/main/Marketing%20View.png)_
+    **1.** A dashboard for _[Marketing View](https://github.com/shubhambhogte01/Business-Insights-Power-BI-Project/blob/main/Marketing%20View.png)_
 
 - **Product Performance:** Analyzed product performance using key metrics such as Net Sales, Gross Margin, Gross Margin %, Net Profit, and Net Profit %. Gain insights into the financial health and profitability of individual products.
   
@@ -67,7 +67,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 - **View objective:** 
 
-    **1.** A dashboard for _[Supply Chain View](https://github.com/Anila-03/Atliq-Analytics-Portal/blob/main/Supply%20Chain%20View.png)_
+    **1.** A dashboard for _[Supply Chain View](https://github.com/shubhambhogte01/Business-Insights-Power-BI-Project/blob/main/Supply%20Chain%20View%20.png)_
 
 - **KPI Visuals:** Track critical supply chain KPIs such as Forecast Accuracy, Net Error, and ABS Error, with comparisons to benchmark values (e.g., Last Year). These visuals provide a clear understanding of forecasting performance and deviations.
   
@@ -80,7 +80,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 - **View objective:** 
 
-    **1.** A dashboard for _[Executive View](https://github.com/Anila-03/Atliq-Analytics-Portal/blob/main/Executive%20VIew.png)_
+    **1.** A dashboard for _[Executive View](https://github.com/shubhambhogte01/Business-Insights-Power-BI-Project/blob/main/Executive%20View.png)_
 
 - **KPI Visuals:** Track key performance indicators (KPIs) such as Forecast Accuracy, Net Sales, Gross Margin %, and Net Profit %, with comparisons to benchmark values (e.g., Last Year or Targets). These visuals provide a snapshot of performance against goals.
 
