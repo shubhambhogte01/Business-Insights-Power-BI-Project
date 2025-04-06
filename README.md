@@ -67,7 +67,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 - **View objective:** 
 
-    **1.** A dashboard for _[Supply Chain View](https://github.com/shubhambhogte01/Business-Insights-Power-BI-Project/blob/main/Supply%20Chain%20View%20.png)_
+    **1.** A dashboard for _[Supply Chain View](https://github.com/shubhambhogte01/Business-Insights-Power-BI-Project/blob/main/Supply%20Chain%20View.png)_
 
 - **KPI Visuals:** Track critical supply chain KPIs such as Forecast Accuracy, Net Error, and ABS Error, with comparisons to benchmark values (e.g., Last Year). These visuals provide a clear understanding of forecasting performance and deviations.
   
