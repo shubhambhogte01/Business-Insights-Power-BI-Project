@@ -1,7 +1,7 @@
 # Business-Insights Analytics-Portal
 A Power BI-driven business intelligence solution offering 360-degree insights into operations, performance, and decision-making. Delivers interactive dashboards, real-time analytics, and actionable insights for stakeholders.
 
-## Live Dashboard: _[Business Insights](https://app.powerbi.com/view?r=eyJrIjoiNjYwNDJlMmItMzcwNi00ZTEzLTkxNDctNGUwNTQxNTgxNzUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=b337747ec30728019641)_
+## Live Dashboard: _[Business Insights](https://app.powerbi.com/view?r=eyJrIjoiNGJjMmQ5YTYtZGVlMy00MmNiLTk1ZjEtYTcyMTM4MTljMGMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 ## Home Page :
 
 - **Objective:** 
